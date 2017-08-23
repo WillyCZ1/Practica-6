@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<HTML lang="es">
+<HEAD>
+<meta charset="utf-8">
+<title>Las mejores redes sociales</title>
+</HEAD>
+<BODY bgcolor="#7E65E8">
+</BODY>
+</HTML>
